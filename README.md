@@ -1,0 +1,2 @@
+# VU_Data_Science_Statistical_Methods_2
+Lecture homeworks
